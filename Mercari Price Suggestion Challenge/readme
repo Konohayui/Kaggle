@@ -1,1 +1,11 @@
-In Process
+Models:
+1. Random Forest
+2. Ridge
+3. Ridge + LGBM
+4. Keras (CNN, GRU, FastText)
+..* CNN is fast but don't do much, max pooling also
+..* GRU is slow but produce some good results
+..* FastText is the best obtion for a single model
+..* Simple FastText (no preprocessing) + GRU
+5. FTRL + FM_FTRL
+6. FastText + GRU + FM_FTRL
