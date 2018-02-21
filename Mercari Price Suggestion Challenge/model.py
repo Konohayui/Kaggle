@@ -43,9 +43,6 @@ def rmsle(h, y):
     y = np.expm1(y)
     return np.sqrt(np.square(np.log1p(h) - np.log1p(y)).mean())
 
-from sklearn.model_selection import train_test_split
-X_train, X_valid, Y_train, Y_valid = train_test_split(X_train, Y_train, random_state = 42, test_size = 0.05)
-
 def fill_missing_data(data):
     data.name.fillna(value = "missing", inplace = True)
     data.category_name.fillna(value = "missing/missing/missing", inplace = True)
