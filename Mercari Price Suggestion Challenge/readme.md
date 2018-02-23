@@ -1,5 +1,3 @@
-**183 th/2384 teams**
-
 Models:
 1. Random Forest
 2. Ridge http://amstat.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634#.WoeQ6YPwaUl
