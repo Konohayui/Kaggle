@@ -7,3 +7,4 @@ Resource:
 * Word2Vec https://arxiv.org/pdf/1301.3781.pdf
 * http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/
 * RCNN https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552
+* Capsule Net https://arxiv.org/pdf/1710.09829.pdf
