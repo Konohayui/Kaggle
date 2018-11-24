@@ -1,4 +1,4 @@
-Readings:
+## Readings:
 
 * [Identifying Mislabeled Training Data](https://arxiv.org/pdf/1106.0219.pdf)
 * [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf)
