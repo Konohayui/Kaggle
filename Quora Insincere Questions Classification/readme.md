@@ -6,6 +6,7 @@ Readings:
 * [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
 * [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
 * [Sentence Ordering and Coherence Modeling using Recurrent Neural Networks](https://arxiv.org/pdf/1611.02654.pdf)
+* [Evolutionary Data Measures: Understanding the Difficulty of Text Classification Tasks](https://arxiv.org/pdf/1811.01910.pdf)
 
 * Meta embedding
 
