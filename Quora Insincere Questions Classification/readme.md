@@ -18,3 +18,6 @@
 
   * [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710.pdf)
   * [DATA NOISING AS SMOOTHING IN NEURAL NETWORK LANGUAGE MODELS](https://arxiv.org/pdf/1703.02573.pdf))
+
+* F1 Score
+  * [Thresholding Classifiers to Maximize F1 Score](https://arxiv.org/pdf/1402.1892.pdf)
