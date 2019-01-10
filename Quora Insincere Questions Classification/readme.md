@@ -8,6 +8,7 @@
 * [Sentence Ordering and Coherence Modeling using Recurrent Neural Networks](https://arxiv.org/pdf/1611.02654.pdf)
 * [Evolutionary Data Measures: Understanding the Difficulty of Text Classification Tasks](https://arxiv.org/pdf/1811.01910.pdf)
 * [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/pdf/1803.05407.pdf)
+* [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/pdf/1506.01186.pdf)
 
 * Meta embedding
 
