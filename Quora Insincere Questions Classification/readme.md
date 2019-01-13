@@ -9,6 +9,7 @@
 * [Evolutionary Data Measures: Understanding the Difficulty of Text Classification Tasks](https://arxiv.org/pdf/1811.01910.pdf)
 * [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/pdf/1803.05407.pdf)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/pdf/1506.01186.pdf)
+* [Regularizing and Optimizing LSTM Language Models](https://arxiv.org/pdf/1708.02182.pdf)
 
 * Meta embedding
 
