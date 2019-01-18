@@ -8,3 +8,10 @@ Most challenges were done in Kaggle kernel, except Toxic Comment Challenge.
 * [Good kernels summary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 * [Visualization of time series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series?)
 * [Noise and Overfitting](https://www.kaggle.com/konstantinmasich/theory-noise-and-overfitting)
+
+
+**BOOKS**
+* [Deep Learning](https://www.deeplearningbook.org/)
+* [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20%20Pattern%20Recognition%20And%20Machine%20Learning%20%20Springer%20%202006.pd)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
