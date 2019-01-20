@@ -15,3 +15,4 @@ Most challenges were done in Kaggle kernel, except Toxic Comment Challenge.
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20%20Pattern%20Recognition%20And%20Machine%20Learning%20%20Springer%20%202006.pd)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf)
