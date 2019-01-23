@@ -11,6 +11,7 @@
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/pdf/1506.01186.pdf)
 * [Regularization of Neural Networks using DropConnect](https://cs.nyu.edu/~wanli/dropc/dropc.pdf)
 * [Regularizing and Optimizing LSTM Language Models](https://arxiv.org/pdf/1708.02182.pdf)
+* [Is preprocessing of text really worth your time for toxic comment classification?](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/ICA4290.pdf)
 
 * Meta embedding
 
