@@ -3,7 +3,7 @@
 Most challenges were done in Kaggle kernel, except Toxic Comment Challenge. 
 
 **Note**
-* In the Quora Insincere Questions Classification Challenge, best solution was able to rank in top 6% before LB median increased.
+* In the Quora Insincere Questions Classification Challenge, best solution was able to rank in the top 6% before LB median increased in the last week of the competition.
 
 
 **Helpful Kernels**
