@@ -1,3 +1,7 @@
+## Baseline Models' Performances
+![train loss](https://raw.githubusercontent.com/shenmemingzine/Kaggle/master/Quora%20Insincere%20Questions%20Classification/pipelines/Train_Loss.png)
+![val loss](https://raw.githubusercontent.com/shenmemingzine/Kaggle/master/Quora%20Insincere%20Questions%20Classification/pipelines/Val_Loss.png)
+
 ## Readings:
 
 * [Identifying Mislabeled Training Data](https://arxiv.org/pdf/1106.0219.pdf)
