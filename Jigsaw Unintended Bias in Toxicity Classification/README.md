@@ -7,3 +7,4 @@
 * [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/pdf/1608.08242.pdf)
 * [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
 * [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
+* [BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION](https://arxiv.org/pdf/1611.01603.pdf)
