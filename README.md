@@ -1,10 +1,3 @@
-# Kaggle
-Most challenges were done using Kaggle kernel, except for the Toxic Comment Challenge.
-
-**Note**
-* In the Quora Insincere Questions Classification Challenge, best solution was able to rank in the top 6% before LB median increased in the last week of the competition.
-
-
 **Helpful Kernels**
 * [Download csv files: from kernels](https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel)
 * [Good kernels summary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
