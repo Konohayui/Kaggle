@@ -1,1 +1,1 @@
-final model: singel xgboost
+final model: single xgboost
