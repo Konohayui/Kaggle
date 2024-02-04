@@ -5,4 +5,3 @@ Resources:
 For future competitions or projects:
   * https://papers.nips.cc/paper/4334-sparse-filtering.pdf
 
-All models and code: https://gitlab.com/ChristofHenkel/avito.git
